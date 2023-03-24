@@ -1,36 +1,26 @@
 # Site
-name: "Memoirs"
-title: "Memoirs"
-description: "I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
+name: "Khoirul Akmal"
+title: "Khoirul Akmal"
+description: ""
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /jekyll-theme-memoirs
-google_analytics: 'UA-xxxxxxxx-1'
-disqus: 'demowebsite'
+baseurl: 
+google_analytics: '352426438'
+disqus: '#'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
-email: wowthemesnet@gmail.com
+email: khoirulakmal.w@gmail.com
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    avatar: 'assets/images/avatar-sal.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/donate/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Memoirs, a Bootstrap Medium styled template available for Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John    
-    avatar: 'assets/images/avatar.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Write a short description of the author here. You are currently previewing Memoirs demo, a Jekyll template compatible with Github pages."
-
+  akmal:
+    name: Akmal
+    display_name: 'Khoirul Akmal'
+    avatar: 'assets/images/profil.jpg'
+    email: khoirulakmal.w@gmail.com
+    twitter: https://twitter.com/khoirulakmal_
+    description: "Suka nulis artikel receh tapi lebih sering ngegame daripada nulis."
 # Plugins
 plugins:
   - jekyll-paginate
@@ -67,10 +57,10 @@ adsense-data-ad-client: "ca-pub-3412143450191416"
 adsense-data-ad-slot: "1363087678"
 
 # Lazy Images ("enabled" or "disabled")
-lazyimages: "disabled"
+lazyimages: "enabled"
 
 # Post Author Box ("enabled" or "disabled")
-authorbox: "enabled"
+authorbox: "disabled"
 
 # Sass
 sass:
