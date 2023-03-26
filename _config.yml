@@ -7,7 +7,7 @@ favicon: 'assets/images/logo.png'
 domain: khoirulakmal.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://khoirulakmal.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 baseurl: 
-google_analytics: '352426438'
+google_analytics: 'G-Z8VM5ZTL21'
 disqus: '#'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
